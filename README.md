@@ -1,4 +1,4 @@
-##Assignment1 
+## Assignment1 
 Show current date using Finnish locale settings
 
 ## Available Scripts
