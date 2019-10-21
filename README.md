@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Assignment1 
+Show current date using Finnish locale settings
 
 ## Available Scripts
 
